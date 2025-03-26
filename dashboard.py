@@ -11,6 +11,5 @@ pages = {
         st.Page("pages/Pprofile.py", title="我是谁？")
     ]
 }
-
 pg = st.navigation(pages)
 pg.run()
