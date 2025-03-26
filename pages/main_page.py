@@ -49,10 +49,6 @@ time.sleep(1)
 my_bar.empty()
 
 st.balloons()
-
-
-st.container()
-st.link_button(label=" 🖥️ Github: Let's build from here. ",url="https://github.com/JERRIYHAN",use_container_width=True)
 st.write("---")
 
 
